@@ -5,6 +5,8 @@ Flexbox layout is appropriate for small scale layouts.
 
 Manipulations are directed toward children of a parent.
 
+[Flexbox Froggy](https://flexboxfroggy.com) - great resource to learn about flexboxes.
+
 ## [Instabox](https://github.com/ignitikus/instabox)
 Flexbox team practice. The goal was to copy instagram website using flexbox. 
 
@@ -14,7 +16,9 @@ Solo flexbox project. Made a copy of unsplash.com.
 
 ## [Responsive - Holy Moley ](https://github.com/ignitikus/holy-moley)
 Intro into responsive design. 
-Use @media with parameters (i.e. min-width/max-width to change css at different window sizes.)
+Use @media with parameters (i.e. min-width/max-width to change css at different window sizes). 
+
+Also, instead if fixed units (px,cm) use relative units (%, vh, vw) for containers. 
 
 ## CodeWars
 
