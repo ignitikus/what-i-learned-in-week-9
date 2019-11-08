@@ -13,6 +13,8 @@ Solo flexbox project. Made a copy of unsplash.com.
 
 
 ## Responsive - Holy Moley  
+Intro into responsive design. 
+Use @media with parameters (i.e. min-width/max-width to change css at different window sizes.)
 
 ## CodeWars
 
